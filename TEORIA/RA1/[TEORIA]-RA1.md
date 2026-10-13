@@ -414,18 +414,26 @@ En aquests moments s’imposen els models cloud amb diversos models de desplegam
 Infraestructures as a Service (Infraestructura com Servei)
 
 * L'usuari contracta únicament les infraestructures tecnològiques (capacitat de procés, d'emmagatzematge i/o de comunicacions) sobre les quals instal·la les plataformes (sistemes operatius) i les aplicacions.  
-* L'usuari té el control sobre la infrastructura a nivell virtual (VMs, xarxa, disc) pero no del hardware físic, i té control total sobre les plataformes i les aplicacions.
+* L'usuari té el control sobre la infraestructura a nivell virtual (VMs, xarxa, disc) però no del hardware físic, i té control total sobre les plataformes i les aplicacions.
 
-El proveïdor de IaaS dona control al client del següent:
+El proveïdor d'IaaS gestiona:
 
 * La virtualització  
-* L'emmagatzemament: disc durs, etc.  
-* Les xarxes  
-* Els servidors
+* Els servidors  
+* L'emmagatzematge: discs durs, etc.  
+* Les xarxes (networking)
 
-Un cop contractats els serveis d'infraestructura, no podem modificar-los, per exemple, si hem adquirit una capacitat d'emmagatzemament a mida, no podem definir quin tipus de disc tenim, si es volen fer canvis, s'haurà de contractar de nou.
+El client gestiona:
 
-Amazon EC2 (AWS), Microsoft Azure VMs, Google Compute Engine, Isaard
+* O/S: Sistema Operatiu  
+* Middleware  
+* Runtime  
+* Les dades  
+* Les aplicacions
+
+Un cop contractats els serveis d'infraestructura, no podem modificar-los, per exemple, si hem adquirit una capacitat d'emmagatzematge a mida, no podem definir quin tipus de disc tenim, si es volen fer canvis, s'haurà de contractar de nou.
+
+Amazon EC2 (AWS), Microsoft Azure VMs, Google Compute Engine, IsardVDI
 
 ## **PaaS**
 
@@ -434,15 +442,20 @@ Platform as a Service (Plataforma com Servei).
 * L'usuari contracta un servei que permet allotjar i desenvolupar les seves pròpies aplicacions (ja siguin desenvolupaments propis o llicències adquirides) en una plataforma que disposa d'eines de desenvolupament.  
 * L'usuari no té cap control sobre la infraestructura, té control parcial sobre la plataforma (el necessari per desenvolupar i desplegar), i té el control total sobre les aplicacions que instal·li.
 
-El proveïdor de PaaS dona control a l’usuari del següent:
+El proveïdor de PaaS gestiona:
 
-* Run Time: Permet l'execució en entorns escalables, segurs i contenidors.  
+* Runtime: Permet l'execució en entorns escalables, segurs i contenidors.  
 * Middleware: Frameworks, kits de desenvolupament (SDK), biblioteques, etc.  
 * O/S: Sistema Operatiu  
 * La virtualització  
-* L'emmagatzemament: disc durs, etc.  
-* Les xarxes  
-* Els servidors
+* Els servidors  
+* L'emmagatzematge: discs durs, etc.  
+* Les xarxes (networking)
+
+El client només gestiona:
+
+* Les dades  
+* Les aplicacions
 
 Heroku, [Odoo.sh](http://Odoo.sh), Google App Engine, Microsoft Azure App Services
 
@@ -453,15 +466,17 @@ Software as a Service (Software com Servei).
 * L'usuari contracta la utilització d'unes aplicacions determinades sobre les quals únicament pot exercir accions de configuració i parametrització permeses pel proveïdor.  
 * L'usuari no té cap control sobre l'aplicació, la plataforma ni la infraestructura.
 
+El proveïdor de SaaS ho gestiona tot; el client només configura i parametritza l'aplicació.
+
 Els coneguts Dropbox, Gmail i Office 365 són exemples coneguts de SaaS.
 
 En un breu espai de temps, el model SaaS substituirà completament el tradicional model on-premise, sobretot a les PIMES.
 
 ## **Mòduls dels serveis**
 
-Els 3 serveis (SaaS, PaaS i IaaS) contenen els mateixos mòduls perquè tot funcioni, però en funció del que servei que es contracte el client té més o menys control.
+Els 3 serveis (SaaS, PaaS i IaaS) contenen els mateixos mòduls perquè tot funcioni, però en funció del servei que es contracti el client té més o menys control.
 
-<img style="border-radius: 5px;" src="../../img/RA1/.png" width="600"/><br>
+<img style="border-radius: 5px;" src="../../img/RA1/erp_serveis.png" width="600"/><br>
 
 
 ## **Exemple metafòric**
