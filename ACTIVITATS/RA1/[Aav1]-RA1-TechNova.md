@@ -175,7 +175,7 @@ Tot i que TechNova ha crescut en nombre de clients i empleats, la seva infraestr
   
 ---
 
-**6\. Test de seguiment – Indicadors clau (KPIs)**
+**6s. Test de seguiment – Indicadors clau (KPIs)**
 
 1. Quin indicador reflecteix millor la millora en la gestió de factures després d’implantar l’ERP?  
      
