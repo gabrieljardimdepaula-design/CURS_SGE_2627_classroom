@@ -461,7 +461,7 @@ En un breu espai de temps, el model SaaS substituirà completament el tradiciona
 
 Els 3 serveis (SaaS, PaaS i IaaS) contenen els mateixos mòduls perquè tot funcioni, però en funció del que servei que es contracte el client té més o menys control.
 
-<img style="border-radius: 5px;" src="../../img/RA1/erp_serveis.png" width="600"/><br>
+<img style="border-radius: 5px;" src="../../img/RA1/.png" width="600"/><br>
 
 
 ## **Exemple metafòric**
