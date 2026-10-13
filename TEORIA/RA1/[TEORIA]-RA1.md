@@ -516,7 +516,7 @@ Els sistemes ERP-CRM es poden classificar segons el model de llicència:
 * **Microsoft Dynamics 365:** Windows Server.  
 * **Odoo:** Linux (Ubuntu/Debian recomanat), també Windows i macOS per a entorns de desenvolupament.  
 * **Salesforce / Oracle NetSuite:** cap requeriment per part del client (SaaS, s’hi accedeix via navegador; el proveïdor gestiona el sistema operatiu).  
-* **SuiteCRM:** Linux (Apache/Nginx \+ PHP), també funciona a Windows.
+* **SuiteCRM:** Linux (Apache/Nginx + PHP), també funciona a Windows.
 
 **Sistema gestor de bases de dades (SGBD):**
 
@@ -528,15 +528,15 @@ Els sistemes ERP-CRM es poden classificar segons el model de llicència:
 
 Cal escollir el SGBD segons els requisits de rendiment, volum de dades i compatibilitat oficial que indica el fabricant del programari; instal·lar un ERP-CRM amb un SGBD no suportat pot provocar errors de funcionament o pèrdua de suport tècnic.
 
-# **Comunicació entre WEB \- BBDD \- ERP**
+# **Comunicació entre WEB - BBDD - ERP**
 
-* La web puede tener su propia base (MySQL, MongoDB…).  
-* El ERP tiene su propia base (PostgreSQL en Odoo).  
-* Se conectan mediante **API REST, JSON-RPC, XML-RPC**.
+* La web pot tenir la seva pròpia Base de Dades (MySQL, MongoDB…).  
+* El ERP té la seva pròpia Base de Dades (PostgreSQL en Odoo).  
+* Es connecta mitjançant**API REST, JSON-RPC, XML-RPC**.
 
-¿Qué es RPC?
+¿Què és RPC?
 
-**RPC (Remote Procedure Call)** \= llamada a función remota.
+**RPC (Remote Procedure Call)** = trucada a funció remota
 
 # **Instal·lació i configuració del sistema informàtic**
 
