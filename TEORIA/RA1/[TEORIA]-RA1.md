@@ -212,6 +212,33 @@ Mòduls més comuns d'un ERP:
 * Un ciberatac pot deixar tota la info exposada.  
 * Possible sobredimensionament
 
+## **Indicadors clau (KPIs)**
+
+Un **KPI** (*Key Performance Indicator*, Indicador Clau de Rendiment) és una mesura quantificable que permet saber si l'empresa (o un departament) està assolint els seus objectius.
+
+No qualsevol dada és un KPI. Una **mètrica** és qualsevol valor que es pot mesurar (nombre de correus enviats, nombre de reunions...), mentre que un **KPI** és una mètrica escollida perquè està directament relacionada amb un objectiu de negoci.
+
+Un bon KPI ha de ser:
+
+* **Mesurable**: es pot expressar amb un número o percentatge.  
+* **Rellevant**: està relacionat amb un objectiu concret de l'empresa o del departament.  
+* **Comparable**: permet comparar l'abans i el després (per exemple, abans i després d'implantar l'ERP) o l'evolució en el temps.  
+* **Accionable**: si el valor empitjora, permet prendre decisions per corregir-ho.
+
+Els ERP faciliten el càlcul dels KPIs perquè totes les dades estan integrades en un únic sistema i actualitzades en temps real. El mòdul de **reporting i BI** és l'encarregat de mostrar-los, normalment en **quadres de comandament** (*dashboards*).
+
+Exemples de KPIs per departament:
+
+|Departament / Mòdul|Exemples de KPI|
+|:-----|:-----|
+|Facturació / Comptabilitat|Reducció d'errors en factures (%), temps mitjà de cobrament, factures pendents de cobrar|
+|Vendes / CRM|Taxa de conversió de clients potencials (*leads*) a clients (%), volum de vendes, valor mitjà per comanda|
+|Projectes / Producció|Projectes lliurats a temps (%), desviació del pressupost (%), temps mitjà de producció|
+|Recursos Humans|Absències registrades correctament (%), taxa d'absentisme (%), rotació de personal (%)|
+|Compres / Estocs|Rotació d'estoc, trencaments d'estoc, temps mitjà de lliurament dels proveïdors|
+
+A l'hora de **justificar la inversió en un ERP** davant la direcció, els KPIs més útils són els que mostren l'impacte en el negoci (menys errors, lliuraments més puntuals, més vendes...), i no els que només mesuren l'ús del sistema (nombre d'usuaris, mòduls contractats, hores de formació).
+
 # **Revisió dels ERP actuals al mercat**
 
 Alguns dels sistemes ERP més utilitzats actualment són:
