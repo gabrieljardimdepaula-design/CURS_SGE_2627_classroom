@@ -14,7 +14,7 @@ RA1: Identifica sistemes de planificació de recursos empresarials i de gestió 
  - Treball individual.
  - Entregar al Moodle l'enllaç del github.
  - Github:
-   - Continuar amb el repositori de l'activitat **Aav1.4**.
+   - Crear repositori de nom **sge_cognom**.
    - Crear una branca (al terminal) de nom **ra1** i ubicar-se a la branca (**git checkout ra1**)
    - Al acabar l'activitat, fusionar la branca **ra1** a la branca **main** del github.    
 
