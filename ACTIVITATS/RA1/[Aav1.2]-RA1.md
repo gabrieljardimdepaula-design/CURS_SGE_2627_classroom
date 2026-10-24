@@ -1,30 +1,4 @@
-# Activitat 1.2 — Estudi comparatiu de sistemes ERP-CRM del mercat
 
-## MÒDUL: Desenvolupament d'aplicacions multiplataforma
-
-RA1: Identifica sistemes de planificació de recursos empresarials i de gestió de relacions amb clients (ERP-CRM) reconeixent-ne les característiques i verificant la configuració del sistema informàtic. 
-
-## RECURSOS
-
- - Teoria RA1
-
-## CONDICIONS DE TREBALL
-
- - Treball individual.
- - Entregar al Moodle l'enllaç del github.
- - Github:
-   - Continuar amb el repositori de l'activitat **Aav1**.
-   - Treballar a la branca **ra1**.
-   - Al acabar l'activitat, fusionar la branca **ra1** a la branca **main** del github.    
-
-## AVALUACIÓ
-
- - Activitat avaluable amb **A** (Apte) o **NA** (No Apte).
- - Condicions per a **Apte**:
-   - 100% de l'activitat demanada.
-   - Entregar l'activitat a la data indicada.
-   - Treballar amb branca i l'ús de commits.
- - Entregar en format **.md** (markdown) amb la mateixa nomenclatura que el de l'activitat actual.
 
 ## ENUNCIAT
 
@@ -49,3 +23,17 @@ RA1: Identifica sistemes de planificació de recursos empresarials i de gestió 
    * La mida de l'empresa (45 empleats).
    * El pressupost disponible (una PIME, no un gran compte).
    * Les necessitats concretes dels departaments (Vendes, Desenvolupament, RRHH, Administració, Màrqueting).
+
+
+
+
+Comparativo ERP-CRM (respuesta a 1 y 2)
+ 
+| Pergunta | Odoo | SuiteCRM | Microsoft Dynamics 365 | Salesforce |
+|---|---|---|---|---|
+| **Nome/Fabricante** | Odoo — Odoo S.A. | SuiteCRM — SalesAgility | Dynamics 365 — Microsoft | Salesforce — Salesforce, Inc. |
+| **Tipo de licença** | Dual: Community = GNU LGPLv3 (código aberto); Enterprise = proprietária | Código aberto, licença AGPLv3 | Proprietária, por subscrição SaaS | Proprietária, por subscrição SaaS |
+| **Modelo de implantação** | Cloud, on-premise ou híbrido | On-premise, cloud ou SaaS (via parceiros) | Cloud ou on-premise | Cloud (SaaS exclusivo) |
+| **Tamanho de empresa** | Pequena a grande | Qualquer tamanho | Média a grande | Qualquer tamanho (foco média/grande) |
+| **Link de referência** | https://www.odoo.com/pt_BR/page/docs | https://suitecrm.com/ | https://www.microsoft.com/en/dynamics-365 | https://www.salesforce.com/es/ |
+ 
