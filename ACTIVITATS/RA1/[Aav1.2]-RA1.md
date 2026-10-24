@@ -82,3 +82,20 @@
 | **Punto fuerte** | Odoo reúne CRM, ventas y finanzas en un solo sistema, entonces la empresa evita integrar herramientas separadas. | SuiteCRM evita tarifas de licencia, porque usa código abierto, entonces la empresa reduce el costo total. | Dynamics 365 conecta datos con Office y Power BI, entonces los equipos ahorran tiempo en el análisis. | Salesforce lidera el mercado de CRM, porque Gartner reconoce la plataforma desde hace 19 años seguidos. |
 | **Punto débil** | Odoo exige configuración cuidadosa al inicio, porque la flexibilidad genera complejidad en la implementación. | SuiteCRM mantiene una interfaz antigua, entonces los usuarios pierden tiempo navegando entre pantallas. | Dynamics 365 cobra precio por usuario, entonces el costo total sube conforme la empresa crece. | Salesforce cobra valores altos por los add-ons, entonces el presupuesto crece rápido al inicio. |
 | **Enlace de referencia** | https://www.odoo.com/pt_BR/page/docs | https://suitecrm.com/ | https://www.microsoft.com/en/dynamics-365 | https://www.salesforce.com/es/ |
+
+
+4
+
+Cuarenta y cinco empleados marcan una fase de transición de TechNova de pequeña a mediana empresa, entonces el crecimiento implica escalar el equipo, departamentalizar y contar con una estructura tecnológica de gestión inteligente que apoye y ayude en esa escalada.
+
+Un presupuesto de pyme guía las decisiones, porque la facturación todavía no alcanza el porte de una gran corporación, entonces el sistema ideal debe crecer poco a poco junto con la empresa.
+
+Cada departamento enfrenta un cuello de botella distinto, entonces necesita soluciones con funciones específicas. Centralizar en una sola aplicación facilita la gestión, sin perder las particularidades necesarias para cada necesidad. En evidencia están:
+
+RRHH gestiona nóminas y ausencias en hojas de Excel, sin trazabilidad ni control centralizado.
+Ventas gestiona presupuestos y contratos por correo y documentos Word, lo que genera duplicados y pérdida de versiones.
+Marketing no tiene conexión directa con Ventas ni métricas integradas, lo que dificulta medir el impacto de las campañas.
+Desarrollo usa Trello para los proyectos, sin integración con contratos ni facturación.
+Administración trabaja con un software contable local que no se comunica con otros departamentos.
+
+Odoo lo resuelve, porque permite escalar con el tamaño de la empresa, tiene módulos separados por función sin perder la centralización, y empresas de ese perfil lo adoptan ampliamente, lo que aporta una prueba social de funcionamiento.
