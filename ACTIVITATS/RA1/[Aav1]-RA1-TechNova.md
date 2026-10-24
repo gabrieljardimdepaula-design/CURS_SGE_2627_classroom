@@ -236,18 +236,18 @@ Tot i que TechNova ha crescut en nombre de clients i empleats, la seva infraestr
 
 
 
-# Ficha de Diagnóstico Interno — TechNova S.L.
+ Ficha de Diagnóstico Interno — TechNova S.L.
 
-## 1. Análisis legal y comercial
+1. Análisis legal y comercial
 
-**Tipo de empresa:**
+Tipo de empresa:**
 - (X) Sociedad Limitada (S.L.)
 - ( ) Sociedad Anónima (S.A.)
 - ( ) Otros: ___________
 
 *Justificación:* El nombre social lleva "S.L.", formato habitual en pymes tecnológicas con responsabilidad limitada de los socios fundadores.
 
-**Clasificación por tamaño:**
+Clasificación por tamaño:
 - ( ) Microempresa
 - (X) Pequeña empresa
 - ( ) Mediana empresa
