@@ -27,13 +27,21 @@
 
 
 
-Comparativo ERP-CRM (respuesta a 1 y 2)
- 
-| Pergunta | Odoo | SuiteCRM | Microsoft Dynamics 365 | Salesforce |
+# Comparativa ERP-CRM
+
+| Pregunta | Odoo | SuiteCRM | Microsoft Dynamics 365 | Salesforce |
 |---|---|---|---|---|
-| **Nome/Fabricante** | Odoo — Odoo S.A. | SuiteCRM — SalesAgility | Dynamics 365 — Microsoft | Salesforce — Salesforce, Inc. |
-| **Tipo de licença** | Dual: Community = GNU LGPLv3 (código aberto); Enterprise = proprietária | Código aberto, licença AGPLv3 | Proprietária, por subscrição SaaS | Proprietária, por subscrição SaaS |
-| **Modelo de implantação** | Cloud, on-premise ou híbrido | On-premise, cloud ou SaaS (via parceiros) | Cloud ou on-premise | Cloud (SaaS exclusivo) |
-| **Tamanho de empresa** | Pequena a grande | Qualquer tamanho | Média a grande | Qualquer tamanho (foco média/grande) |
-| **Link de referência** | https://www.odoo.com/pt_BR/page/docs | https://suitecrm.com/ | https://www.microsoft.com/en/dynamics-365 | https://www.salesforce.com/es/ |
- 
+| **Nombre/Fabricante** | Odoo — Odoo S.A. | SuiteCRM — SalesAgility | Dynamics 365 — Microsoft | Salesforce — Salesforce, Inc. |
+| **Tipo de licencia** | Dual: Community = GNU LGPLv3 (código abierto); Enterprise = propietaria | Código abierto, licencia AGPLv3 | Propietaria, por suscripción SaaS | Propietaria, por suscripción SaaS |
+| **Modelo de implementación** | Cloud, on-premise o híbrido | On-premise, cloud o SaaS (vía socios) | Cloud u on-premise | Cloud (SaaS exclusivo) |
+| **Tamaño de empresa** | Pequeña a grande | Cualquier tamaño | Mediana a grande | Cualquier tamaño (foco mediana/grande) |
+| **Módulos destacados** | CRM, Ventas, Contabilidad/Financiero | Ventas (leads/oportunidades), Marketing, Informes y Paneles | Ventas, Atención al Cliente, Finanzas | Sales Cloud, Service Cloud, Agentforce (IA) |
+| **Punto fuerte** | Odoo reúne CRM, ventas y finanzas en un solo sistema, entonces la empresa evita integrar herramientas separadas. | SuiteCRM evita tarifas de licencia, porque usa código abierto, entonces la empresa reduce el costo total. | Dynamics 365 conecta datos con Office y Power BI, entonces los equipos ahorran tiempo en el análisis. | Salesforce lidera el mercado de CRM, porque Gartner reconoce la plataforma desde hace 19 años seguidos. |
+| **Punto débil** | Odoo exige configuración cuidadosa al inicio, porque la flexibilidad genera complejidad en la implementación. | SuiteCRM mantiene una interfaz antigua, entonces los usuarios pierden tiempo navegando entre pantallas. | Dynamics 365 cobra precio por usuario, entonces el costo total sube conforme la empresa crece. | Salesforce cobra valores altos por los add-ons, entonces el presupuesto crece rápido al inicio. |
+| **Enlace de referencia** | https://www.odoo.com/pt_BR/page/docs | https://suitecrm.com/ | https://www.microsoft.com/en/dynamics-365 | https://www.salesforce.com/es/ |
+
+## Fuentes de los puntos fuertes/débiles
+- Odoo: [Odoo Docs](https://www.odoo.com/pt_BR/page/docs) · [Cloudzy — Odoo Review](https://cloudzy.com/pt/blog/odoo-review/)
+- SuiteCRM: [SuiteCRM.com](https://suitecrm.com/) · [Capterra — SuiteCRM Reviews](https://www.capterra.com/p/136373/SuiteCRM/reviews/)
+- Microsoft Dynamics 365: [Microsoft Dynamics 365](https://www.microsoft.com/en/dynamics-365) · [Velosio — Advantages & Disadvantages of Dynamics 365](https://www.velosio.com/blog/advantages-disadvantages-of-dynamics-365/)
+- Salesforce: [Salesforce.com](https://www.salesforce.com/es/) · [Salesdorado — Salesforce Review](https://salesdorado.com/en/crm/crm-software/salesforce-review/)
