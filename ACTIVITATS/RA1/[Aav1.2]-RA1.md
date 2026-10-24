@@ -70,4 +70,4 @@ Marketing no tiene conexión directa con Ventas ni métricas integradas, lo que 
 Desarrollo usa Trello para los proyectos, sin integración con contratos ni facturación.
 Administración trabaja con un software contable local que no se comunica con otros departamentos.
 
-Odoo lo resuelve, porque permite escalar con el tamaño de la empresa, tiene módulos separados por función sin perder la centralización, y empresas de ese perfil lo adoptan ampliamente, lo que aporta una prueba social de funcionamiento.
+Odoo lo resuelve, porque permite escalar con el tamaño de la empresa, tiene módulos separados por función con capacidad para resolver los problemas identificadods,  sin perder la centralización en un unico sistema y sin sobrecarregar las personas con herramientas complejas y dispersas. Las empresas de ese perfil lo adoptan ampliamente, lo que aporta una prueba social de funcionamiento.
