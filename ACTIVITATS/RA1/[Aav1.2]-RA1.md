@@ -57,10 +57,11 @@
 
 
 4
+conclusion
 
-resumo: TechNova necesita estructura escalable y asequible. Cada área tiene un problema distinto (RRHH, Ventas, Marketing, Desarrollo, Administración) pero necessita de una solucion integrada. Odoo resuelve esto con módulos específicos en un sistema centralizado. escalavel  y usado por empresas similares lo que aporta prueba social relevante.
+ resumo: TechNova necesita estructura escalable y asequible. Cada área tiene un problema distinto (RRHH, Ventas, Marketing, Desarrollo, Administración) pero necessita de una solucion integrada. Odoo resuelve esto con módulos específicos en un sistema centralizado. escalavel  y usado por empresas similares lo que aporta prueba social relevante.
 
-Cuarenta y cinco empleados marcan una fase de transición de TechNova de pequeña a mediana empresa, entonces el crecimiento implica escalar el equipo, departamentalizar y contar con una estructura tecnológica de gestión inteligente que apoye y ayude en esa escalada.
+justificativa: Cuarenta y cinco empleados marcan una fase de transición de TechNova de pequeña a mediana empresa, entonces el crecimiento implica escalar el equipo, departamentalizar y contar con una estructura tecnológica de gestión inteligente que apoye y ayude en esa escalada.
 
 Un presupuesto de pyme guía las decisiones, porque la facturación todavía no alcanza el porte de una gran corporación, entonces el sistema ideal debe crecer poco a poco junto con la empresa.
 
