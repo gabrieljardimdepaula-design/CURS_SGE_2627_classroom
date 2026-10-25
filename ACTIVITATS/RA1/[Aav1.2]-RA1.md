@@ -57,7 +57,6 @@
 
 
 4
-conclusion
 
  resumo: TechNova necesita estructura escalable y asequible. Cada área tiene un problema distinto (RRHH, Ventas, Marketing, Desarrollo, Administración) pero necessita de una solucion integrada. Odoo resuelve esto con módulos específicos en un sistema centralizado. escalavel  y usado por empresas similares lo que aporta prueba social relevante.
 
